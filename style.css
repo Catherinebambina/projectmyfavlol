@@ -1,0 +1,26 @@
+body {
+  background:#B3E5FC;
+  text-align:center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: aquamarine;
+}
+#caca {
+  font-size:150 px;
+    color: blueviolet;
+    background-color: plum;
+}
+#id {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+#OMGWAW {
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+#HEHE {
+   border-color: black;
+}
+HEHE:hover {
+    background-color: blue;
+    transform: scale(0.9);
+}
